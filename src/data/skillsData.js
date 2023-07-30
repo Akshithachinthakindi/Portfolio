@@ -8,13 +8,11 @@
     'Next JS',
     'MongoDB',
     'Docker',
-    'C++',
     'Bootstrap',
     'Git',
     'Canva',
     'Ubuntu',
     'AWS',
-    'Typescript',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
