@@ -65,7 +65,7 @@ export const projectsData = [
     },
     {
         id: 7,
-        projectName: 'Stock Market App',
+        projectName: 'Example Project1',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
         code: '',
@@ -74,7 +74,7 @@ export const projectsData = [
     },
     {
         id: 8,
-        projectName: 'Car Pooling System',
+        projectName: 'Example Project2',
         projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
         tags: ['Flutter', 'React'],
         code: '',
