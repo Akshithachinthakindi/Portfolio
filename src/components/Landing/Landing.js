@@ -197,7 +197,7 @@ function Landing() {
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
-                                    Contact
+                                    Reach Out
                                 </Button>
                             </NavLink>
                         </div>

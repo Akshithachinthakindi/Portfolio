@@ -63,24 +63,24 @@ export const projectsData = [
         demo: '',
         image: six
     },
-    {
-        id: 7,
-        projectName: 'Example Project1',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: '',
-        demo: '',
-        image: seven
-    },
-    {
-        id: 8,
-        projectName: 'Example Project2',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: eight
-    },
+    // {
+    //     id: 7,
+    //     projectName: 'Example Project1',
+    //     projectDesc: 'A simple stock market API app',
+    //     tags: ['React', 'Redux', 'Bootstrap'],
+    //     code: '',
+    //     demo: '',
+    //     image: seven
+    // },
+    // {
+    //     id: 8,
+    //     projectName: 'Example Project2',
+    //     projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: eight
+    // },
 ]
 
 
